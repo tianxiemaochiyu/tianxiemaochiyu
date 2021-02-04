@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<a href="https://github.com/search?o=desc&q=user%3tianxiemaochiyu&s=stars&type=Repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=tianxiemaochiyu&show_icons=true&theme=vue">
-</a>
+[![tianxiemaochiyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tianxiemaochiyu&show_icons=true&theme=vue)](https://github.com/search?o=desc&q=user%3Atianxiemaochiyu&s=stars&type=Repositories)
